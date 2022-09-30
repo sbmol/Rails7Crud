@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  event_type: MyString
+  even_date: 2022-09-29
+  title: MyString
+  speaker: MyString
+  host: MyString
+  published: false
+
+two:
+  event_type: MyString
+  even_date: 2022-09-29
+  title: MyString
+  speaker: MyString
+  host: MyString
+  published: false
